@@ -1,6 +1,6 @@
 # import numpy as np
 
-msg = "Roland Reagan UN Speech 1987"
+msg = "The Road to Reality"
 msg = msg.capitalize()
 print(msg)  
 msg = msg.capitalize()
@@ -11,5 +11,6 @@ print(msg)
 for _ in range(2):
     print(msg)
 
-    print("The Amazing Human Intuition")
+    print("The Amazing Roger Penrose")
+
 
