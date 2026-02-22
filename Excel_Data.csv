@@ -2,9 +2,10 @@ Event ID,Date,Location,Capacity,Speakers
 E107,2025-12-10,Bournemouth,10,Debra Berger
 E108,2025-12-11,Bournemouth,15,Delia Dennis
 E109,2025-12-12,Bournemouth,20,Diego Siciliani
-E110,2025-12-13,Poole,25,Gerhart Moller
-E111,2025-12-14,Poole,30,Grady Archie
-E112,2025-12-15,Poole,35,Irvin Sayers
-E113,2025-12-16,ChristChurch,40,Isaiah Langer
-E114,2025-12-17,ChristChurch,45,Johanna Lorenz
-E115,2025-12-18,ChristChurch,50,Rachel Lenny
+E110,2025-12-13,Southampton,25,Gerhart Moller
+E111,2025-12-14,Southampton,30,Grady Archie
+E112,2025-12-15,Southampton,35,Irvin Sayers
+E113,2025-12-16,Portsmouth,40,Isaiah Langer
+E114,2025-12-17,Portsmouth,45,Johanna Lorenz
+E115,2025-12-18,Portsmouth,50,Rachel Lenny
+
