@@ -1,4 +1,4 @@
-# By Hisham Anis 2nd November 2025
+# By Hish Anis 2nd November 2025
 # import_csv.py
 # This script reads a CSV file and converts its contents to a JSON file.
 # It uses the built-in csv and json libraries in Python.
@@ -20,4 +20,5 @@ with open('output.json', mode='w') as json_file:
     json.dump(data, json_file, indent=4)
 
 print("CSV has been successfully converted to JSON!")
-print("By Hisham Anis 2nd November 2025")
+
+print("By Hish Anis 2nd November 2025")
