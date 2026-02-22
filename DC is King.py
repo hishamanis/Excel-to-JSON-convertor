@@ -1,6 +1,6 @@
 # import numpy as np
 
-msg = "DataCryption Acquires KnowledgeMill"
+msg = "DataCryption Loves KnowledgeMill"
 msg = msg.capitalize()
 print(msg)  
 msg = msg.capitalize()
@@ -10,4 +10,5 @@ print(msg)
 
 for _ in range(2):
     print(msg)
+
     print("DataCryption is King")
