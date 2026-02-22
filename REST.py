@@ -5,7 +5,7 @@
   "published_at": "2025-10-26T06:30:00Z",
   "author": {
     "id": 1212,
-    "name": "Hisham Anis",
+    "name": "Hish Anis",
     "profile_url": "https://example.com/authors/1212"
   },
   "comments": {
@@ -15,4 +15,5 @@
   "self": {
     "link": "https://example.com/posts/12345"
   }
+
 }
